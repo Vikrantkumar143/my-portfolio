@@ -130,7 +130,7 @@ const Contact = () => {
                 </a>
 
                 <a
-                  href="https://youtube.com/@vikrantkumar7976?si=iVb864u42QTHlsIV"
+                  href="https://youtube.com/@vikrantkumar7976"
                   target="_blank"
                   rel="noreferrer"
                   className="text-white fs-4"
@@ -139,7 +139,7 @@ const Contact = () => {
                 </a>
 
                 <a
-                  href="https://www.instagram.com/vikrant_singh_1_4_3?igsh=MWEyeG85OXhkZjk5aw=="
+                  href="https://www.instagram.com/vikrant_singh_1_4_3"
                   target="_blank"
                   rel="noreferrer"
                   className="text-white fs-4"
